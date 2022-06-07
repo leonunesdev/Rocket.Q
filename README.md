@@ -20,5 +20,4 @@ Você pode visualizar o layout do projeto através desse link. É necessário te
 
 ## 📜 Licença
 
-
 Feito com ❤️ by Leandro Nunes
