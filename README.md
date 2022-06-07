@@ -1,5 +1,4 @@
-#
-
+![rocketq](https://user-images.githubusercontent.com/99052605/172491819-331fcd4e-54f9-4180-8f2e-029498e87861.png)
 
 ## 🚀 Tecnologias
 
