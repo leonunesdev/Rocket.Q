@@ -4,7 +4,7 @@
 
 
 
-<p align="center"
+<p align="center">
   <a href="#-Tecnologias">Tecnologias</a>     |   
   <a href="#-Projeto">Projeto</a>  |
   <a href="#-Layout">Layout</a>  |
