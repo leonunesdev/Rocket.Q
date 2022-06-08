@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href="#Tecnologias">Tecnologias</a>
+<a href="#-Tecnologias">Tecnologias</a>
 </p>
 
 
