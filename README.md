@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/99052605/172699709-13914e3f-c5b4-42ee-9bd5-a54555443fb5.png" width="150px">
+<img src="https://user-images.githubusercontent.com/99052605/172699709-13914e3f-c5b4-42ee-9bd5-a54555443fb5.png">
 </div>
-
-
 
 <p align="center">
   <a href="#-Tecnologias">Tecnologias</a>     |   
