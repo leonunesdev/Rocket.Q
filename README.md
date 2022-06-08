@@ -6,7 +6,10 @@
 
 
 <p align="center">
-<a href="#-Tecnologias">Tecnologias</a>
+  <a href="#-Tecnologias">Tecnologias</a>     |   
+  <a href="#-Projeto">Projeto</a>  |
+  <a href="#-Layout">Layout</a>  |
+  <a href="#-Licença">Licença</a>
 </p>
 
 
