@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="![rocketq](https://user-images.githubusercontent.com/99052605/172491819-331fcd4e-54f9-4180-8f2e-029498e87861.png)">
+<div align="center">
+<img src="![rocketq](https://user-images.githubusercontent.com/99052605/172491819-331fcd4e-54f9-4180-8f2e-029498e87861.png)">
+</div>
 
 
 
-
-
-
-<p align="center">
+<p align="center"
   <a href="#-Tecnologias">Tecnologias</a>     |   
   <a href="#-Projeto">Projeto</a>  |
   <a href="#-Layout">Layout</a>  |
