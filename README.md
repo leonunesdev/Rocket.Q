@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/99052605/172699709-13914e3f-c5b4-42ee-9bd5-a54555443fb5.png">
 </div>
-
+<hr>
 <p align="center">
   <a href="#-Tecnologias">Tecnologias</a>     |   
   <a href="#-Projeto">Projeto</a>  |
@@ -30,5 +30,5 @@ Você pode visualizar o layout do projeto através desse <a href="https://www.fi
 
 ## 📜 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/leonunesdev/Rocket.Q/blob/main/LICENSE">LICENSE</a> para mais detalhes.
-
+<hr>
 Feito com ❤️ by Leandro Nunes
